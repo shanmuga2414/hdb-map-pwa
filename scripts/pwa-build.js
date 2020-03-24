@@ -1,5 +1,6 @@
 const fs = require('fs-extra')
 //test
+//erwerw
 var pwa = `<!DOCTYPE html>
 <html lang="en">
 <head>
